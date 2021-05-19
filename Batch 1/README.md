@@ -8,12 +8,16 @@ Batch 1
 * Shadow (Twister Roller Coaster)
 
 
-
 ![image](https://raw.githubusercontent.com/Ryder17z/RCT-Pack-by-Ryder17z/main/Batch%201/Among_%2B_In_Serpents_Coils.png)
 
 * Among Serpents Coils (Standup Roller Coaster)
 * In Serpents Coils (Corkscrew Roller Coaster)
   * (contributed by M00 Scharfschutzen#3302 (Discord) )
+
+
+![image](https://raw.githubusercontent.com/Ryder17z/RCT-Pack-by-Ryder17z/main/Batch%201/Red%2Cross.png)
+
+* Red Cross (Reverser Roller Coaster)
 
 ___
 
