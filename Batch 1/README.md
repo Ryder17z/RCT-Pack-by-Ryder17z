@@ -15,7 +15,7 @@ Batch 1
   * (contributed by M00 Scharfschutzen#3302 (Discord) )
 
 
-![image](https://raw.githubusercontent.com/Ryder17z/RCT-Pack-by-Ryder17z/main/Batch%201/Red%2Cross.png)
+![image](https://raw.githubusercontent.com/Ryder17z/RCT-Pack-by-Ryder17z/main/Batch%201/Red_Cross.png)
 
 * Red Cross (Reverser Roller Coaster)
 
